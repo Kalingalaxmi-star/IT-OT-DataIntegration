@@ -40,6 +40,16 @@ Data Consistency:
  Get the product information update: Get call
 
 What needs to be tested and Why is testing required?
- 
+During the course of API testing, we will be focusing on below points
+->Status code check
+->Response validation
+->Data validation (Min-max length,data type)
+
+ Repository Management step :
+ Clone the project
+ Create own branch
+ Changes updated on your collection add to the Git
+ Commit changes with the comments
+  
 
 
