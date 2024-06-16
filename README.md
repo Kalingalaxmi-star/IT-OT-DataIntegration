@@ -1,7 +1,9 @@
 Project Title
+
 IT-OT Data Integration
 
 Getting Started
+
 These instructions will let you know how to perform testing on the POSTMAN tool and the strategy for the testing approach. 
 
 Prerequisites
