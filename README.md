@@ -14,14 +14,14 @@ To setup the testing environment, We need to run configuration-related APIs
 
 Product Information API :
 -> Adding new product information: POST call
--> Updating existing information:We will be using 2 API calls
+-> Updating existing information: We will be using below API calls
  Get call-> get the  product information (unique ID will be fetched)
  Put call = using the unique ID we can update the product information
 -> Product data retrieval: GET call
 
 Order Processing API:
 ->  Order Placement: POST call
-->  Status update: We will be using 2 API calls
+->  Status update: We will be using below API calls
 GET call to get the  order information(a unique ID will be fetched) 
 Put call = using the unique ID we can update the order information
 -> Order retrieval: GET call
@@ -43,9 +43,9 @@ What needs to be tested and Why is testing required?
 During the course of API testing, we will be focusing on below points
 ->Status code check
 ->Response validation
-->Data validation (Min-max length,data type)
+->Data validation (Min-max length, data type)
 
- Repository Management step :
+ Repository Management steps :
  Clone the project
  Create own branch
  Changes updated on your collection add to the Git
